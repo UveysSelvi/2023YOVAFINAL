@@ -55,7 +55,7 @@ public class TokatOylamaTest {
         assertEquals(gercekSonuc, TokatOylama.partiCOy);
     }
 
-    @Test
+   @Test
     public void testOyListele() {
         String[] dizi = new String[3];
         dizi[0] = "A partisi oy sayısı : " + 0;
